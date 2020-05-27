@@ -1,0 +1,31 @@
+h1{
+    color:red;
+    font-size: 45px;
+    font-family:"Times New Roman";
+    text-align: center;
+    font-weight: normal;
+    line-height: 2;
+    text-decoration: underline;
+    text-indent: 100px;
+}
+p{
+    text-indent: 20px;
+}
+body{
+    background-color: #c456fa;
+    background-image: url("img/anh moi.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 100%;
+}
+div{
+    width: 300px;
+}
+group-1{
+    float: left;
+}
+group-2{
+    float:right;
+}
